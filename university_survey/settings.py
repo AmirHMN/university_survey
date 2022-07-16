@@ -78,7 +78,7 @@ DATABASES = {
         'NAME': 'university_survey',
         'HOST': 'localhost',
         'USER': local_settings.USER,
-        'PASSWORD':local_settings.PASSWORD,
+        'PASSWORD': local_settings.PASSWORD,
 
     }
 }
